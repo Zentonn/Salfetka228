@@ -1,0 +1,150 @@
+@font-face {
+  font-family:minecraft_0 ;
+  src: url(minecraft_0.ttf);
+}
+body{
+  background: linear-gradient(to left, #474a51, #182544);
+  animation: fadeInAnimation ease 1.5s;
+            animation-iteration-count: 1;
+            animation-fill-mode: forwards;
+        }
+        @keyframes fadeInAnimation {
+            0% {
+                opacity: 0;
+            }
+
+            100% {
+                opacity: 1;
+            }
+        }
+
+      
+a href{
+  border: 20px;
+}
+h1{
+  font-family: minecraft_0;text-align: center;color: aquamarine;
+}
+img{
+  width: 520px; height: 300px;
+}
+table{
+  border: 2px solid rgb(0, 0, 0);border-collapse: collapse;text-align: center;color: rgba(240, 248, 255, 0);margin: auto;
+}
+td{
+  border:2px solid black;color: rgb(0, 0, 0);background-color: rgb(255, 255, 255);text-decoration: none;
+}
+
+.English{
+  list-style-position: inside; /* иконка будет внутри строки */
+  list-style-image: url(icons8-uk-16.png);
+  align-items: center;
+  gap: 5px;                    /* отступ между иконкой и текстом */
+}
+.German {
+  list-style-position: inside; /* иконка будет внутри строки */
+  list-style-image: url(icons8-germany-16.png);
+  align-items: center;
+  gap: 5px;                    /* отступ между иконкой и текстом */
+}
+.Spain{
+  list-style-position: inside; /* иконка будет внутри строки */
+  list-style-image: url(icons8-spain-16.png);
+  gap: 5px;                    /* отступ между иконкой и текстом */
+}
+.Italy{
+  list-style-position: inside; /* иконка будет внутри строки */
+  list-style-image: url(icons8-italy-16.png);
+  align-items: center;
+  gap: 5px;                    /* отступ между иконкой и текстом */
+}
+.prep1{
+  width: 300px;height: 300px;
+}
+.prep2{
+  width: 300px;height: 300px;
+}
+.prep3{
+  width: 300px;height: 300px;
+}
+.prep4{
+  width: 300px;height: 300px;
+}
+.five{
+  border:0; solid transparent;color:transparent;background-color: rgba(0, 0, 0, 0);border-collapse: collapse;
+}
+.td1{
+  border: none;background-color: rgba(255, 255, 255, 0);
+}
+.td2{
+  border: none;background-color: rgba(255, 255, 255, 0);
+}
+.td3{
+  border: none;background-color: rgba(255, 255, 255, 0);
+}
+.td4{
+  border: none;background-color: rgba(255, 255, 255, 0);white-space: 
+}
+.td5{
+  border: none;background-color: rgba(255, 255, 255, 0);white-space: 
+}
+.td6{
+  border: none;background-color: rgba(255, 255, 255, 0);white-space: 
+}
+.td7{
+  border: none;background-color: rgba(255, 255, 255, 0);white-space: 
+}
+.td8{
+  border: none;background-color: rgba(255, 255, 255, 0);
+}
+.td9{
+  border: none;background-color: rgba(255, 255, 255, 0);
+}
+.td10{
+  border: none;background-color: rgba(255, 255, 255, 0);
+}
+.TG{
+  width: 56px;height: 56px;
+}
+.VK{
+  width: 56px;height: 56px;
+}
+.Rutube{
+  width: 56px;height: 56px;
+}
+.Ktyis{
+  width: 56px;height: 56px;
+}
+.contacts{
+  text-align: center;
+}
+.ph1{
+  width: 520px;height: 300px;
+}
+.ph2{
+  width: 520px;height: 300px;
+}
+.ph3{
+  width: 520px;height: 300px;
+}
+.und1{
+  text-decoration: none;
+}
+.und2{
+  text-decoration: none;
+}
+.und3{
+  text-decoration: none;
+}
+.und4{
+  text-decoration: none;
+}
+.und5{
+  text-decoration: none;
+}
+.center-image {
+      text-align: center;
+    }
+    .center-image1 {
+      text-align: center;
+    }
